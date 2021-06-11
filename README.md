@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zgmarx&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zgmarx&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 - Former Senior SRE @baishancloud.com
 - Former Senior SRE @autohome.com
